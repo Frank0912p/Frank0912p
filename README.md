@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1000x200/2C2F33/FFFFFF?text=Francis+Moreta+-+Desarrollador+Web+en+formación" alt="Banner" />
+  <img src="./BannerGithub.png" alt="Banner del perfil" />
 </p>
 
 <h1 align="center">👋 Hola, soy Francis Moreta</h1>
