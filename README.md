@@ -1,4 +1,4 @@
-<p align="center">
+3<p align="center">
   <img src="https://github.com/Frank0912p/Frank0912p/blob/main/githubBanner.png" alt="Banner del perfil" />
 </p>
 
@@ -34,8 +34,8 @@
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frank0912p&show_icons=true&theme=github_dark" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frank0912p&layout=compact&theme=github_dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=francismoretareyes&show_icons=true&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francismoretareyes&layout=compact&theme=github_dark" alt="Top Langs" />
 </p>
 
 ---
